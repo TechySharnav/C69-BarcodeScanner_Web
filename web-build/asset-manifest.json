@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/C69-Barcode_Scanner/static/js/app.a662b153.chunk.js",
+    "app.js.map": "/C69-Barcode_Scanner/static/js/app.a662b153.chunk.js.map",
+    "runtime~app.js": "/C69-Barcode_Scanner/static/js/runtime~app.3b3f8b11.js",
+    "runtime~app.js.map": "/C69-Barcode_Scanner/static/js/runtime~app.3b3f8b11.js.map",
+    "static/js/2.88928f5c.chunk.js": "/C69-Barcode_Scanner/static/js/2.88928f5c.chunk.js",
+    "static/js/2.88928f5c.chunk.js.map": "/C69-Barcode_Scanner/static/js/2.88928f5c.chunk.js.map",
+    "favicon-16.png": "/C69-Barcode_Scanner/favicon-16.png",
+    "favicon-32.png": "/C69-Barcode_Scanner/favicon-32.png",
+    "favicon.ico": "/C69-Barcode_Scanner/favicon.ico",
+    "index.html": "/C69-Barcode_Scanner/index.html",
+    "serve.json": "/C69-Barcode_Scanner/serve.json",
+    "static/js/2.88928f5c.chunk.js.LICENSE.txt": "/C69-Barcode_Scanner/static/js/2.88928f5c.chunk.js.LICENSE.txt",
+    "static/media/barcodeScanner.png": "/C69-Barcode_Scanner/static/media/barcodeScanner.68fe7a69.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.3b3f8b11.js",
+    "static/js/2.88928f5c.chunk.js",
+    "static/js/app.a662b153.chunk.js"
+  ]
+}
